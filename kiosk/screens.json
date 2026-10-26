@@ -1,5 +1,7 @@
 {
   "screens": {
-    "rw-hallway": { "url": "https://rosewoodwi.com/rw-hallway" }
+    "rw-hallway":   { "url": "https://rosewoodwi.com/rw-hallway" },
+    "rw-hallway-1": { "url": "https://rosewoodwi.com/rw-hallway" },
+    "rw-hallway-2": { "url": "https://rosewoodwi.com/rw-hallway" }
   }
 }
